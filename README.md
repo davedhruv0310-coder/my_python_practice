@@ -1,0 +1,1 @@
+This repository contains my daily Python practice programs as I learn and improve my programming and problem-solving skills. It includes basic Python concepts, loops, functions, conditions, and small coding exercises.
